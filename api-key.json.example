@@ -1,0 +1,19 @@
+{
+    "api_keys": [
+        "API-Key-1",
+        "API-Key-2",
+        "API-Key-3",
+        "API-Key-4"
+    ],
+    "personal_key_count": 2,
+    "oauth_configs": {
+        "0": {
+            "client_id": "Public-Client-for-API-key-1.apps.googleusercontent.com (Same project at API-Key-1)",
+            "client_secret": "Secret-too-1"
+        },
+        "1": {
+            "client_id": "Public-Client-for-API-key-2.apps.googleusercontent.com (Same project at API-Key-2)",
+            "client_secret": "Secret-too-2"
+        }
+    }
+}
